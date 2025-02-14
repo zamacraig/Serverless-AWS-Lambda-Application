@@ -1,1 +1,1 @@
-# Serverless-AWS-Lambda-Application
+# Serverless AWS Lambda Application
