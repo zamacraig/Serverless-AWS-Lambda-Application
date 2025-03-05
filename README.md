@@ -29,6 +29,10 @@ The application employs Terraform to provision and manage the following AWS reso
 
 Refer to the provided architecture diagram below for more detailed insights into the flow and design of the application.
 
+## Architecture Diagram
+![image](https://github.com/user-attachments/assets/0882b3f4-5717-4ce7-a98f-bd5ce06812a9)
+
+
 ## Requirements
 Before setting up the application, ensure you have the following:
 
